@@ -15,7 +15,7 @@ This is a simple Snake game implemented using HTML, CSS, and JavaScript. It's a 
 
 ## Demo
 
-You can play the game live [here](link-to-your-game).
+You can play the game live [here](https://snake-game-ngww.vercel.app).
 
 ## Installation
 
